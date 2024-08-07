@@ -28,7 +28,7 @@
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuzx&theme=vision-friendly-dark)](https://github.com/anuzx/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=anuzx&theme=dark&card_width=400)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/anuzx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzx&layout=compact&theme=vision-friendly-dark" width="400"" /></a></p>
+ <p align="left"><a href="https://github.com/anuzx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzx&layout=compact&theme=vision-friendly-dark" width="400" /></a></p>
 
 <br><br>
 
