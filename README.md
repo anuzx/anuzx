@@ -5,12 +5,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=On+journey+to+become+the+best+!!" alt="Typing SVG" /></a> </h3>
 
 ###
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuzx&theme=vision-friendly-dark)](https://github.com/anuzx/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=anuzx&theme=dark&card_width=450)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/anuzx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzx&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuzx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zeno1101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeno1101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br><br>
+
 
 ###
 
