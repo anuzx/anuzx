@@ -4,6 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=On+journey+to+become+the+best+!!" alt="Typing SVG" /></a> </h3>
 
+---
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://i.pinimg.com/originals/b9/04/94/b90494411665ae9ab6497682f9da350e.jpg">
@@ -18,6 +19,8 @@
 
 👉 AI/ML Enthusiast.
 
+---
+<br> 
 
 ###
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
@@ -28,6 +31,8 @@
  <p align="left"><a href="https://github.com/anuzx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzx&layout=compact&theme=vision-friendly-dark" width="400"" /></a></p>
 
 <br><br>
+
+---
 
 
 ###
