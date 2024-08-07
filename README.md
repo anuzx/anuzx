@@ -1,8 +1,8 @@
 <h2 align="center">Hi ! I'm Anuj 👨‍💻</h2>
 
-<h3 align="center">
+<h4 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=capable+in+all+realm+of+human+endevour" alt="Typing SVG" /></a> </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=capable+in+all+realm+of+human+endeavour" alt="Typing SVG" /></a> </h4>
 
 ---
 <h2 id="present_status"> Present Status </h2>
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 id="Skills"> Skills </h2>
+<h2 id="skills"> skills </h2>
 
 
 <div align="left">
@@ -63,5 +63,7 @@
 </div>
 
 <br/>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuzx&label=Profile%20views&color=0e75b6&style=flat" alt="anuzx" /> </p>
