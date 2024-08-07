@@ -2,7 +2,7 @@
 
 <h6 >
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=capable+in+all+realm+of+human+endeavour" alt="Typing SVG" /></a> </h6>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=capable+in+all+realm+of+human+endeavour" alt="Typing SVG" /></a> </h6>
 
 ---
 <h2 id="present_status"> Present Status </h2>
@@ -23,7 +23,7 @@
 <br> 
 
 ###
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>📊GitHub Stats</h2>
 <img align="right" width="40%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuzx&theme=vision-friendly-dark)](https://github.com/anuzx/github-readme-stats)
@@ -37,7 +37,7 @@
 
 ###
 
-<h2 id="skills"> skills </h2>
+<h2 id="skills"> 🛠 skills </h2>
 
 
 <div align="left">
