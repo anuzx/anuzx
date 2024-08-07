@@ -11,9 +11,9 @@
 
 👉 Curious to learn everything.
 
-👉 currently learning web development.
+👉 Currently learning web development.
 
-👉 Interested in finding bugs and reporting them.
+👉 Interested in finding bugs & reporting them.
 
 👉 Building & Contributing To Open Source Projects.
 
@@ -62,7 +62,7 @@
  
 </div>
 
-<br/>
+<br>
 
 ---
 
