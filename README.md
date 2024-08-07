@@ -2,7 +2,7 @@
 
 <h6 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=capable+in+all+realm+of+human+endeavour" alt="Typing SVG" /></a> </h6>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0AB91F&width=435&lines=capable+in+all+realm+of+human+endeavor" alt="Typing SVG" /></a> </h6>
 
 ---
 <h2 id="present_status"> Present Status </h2>
