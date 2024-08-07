@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=On+journey+to+become+the+best+!!" alt="Typing SVG" /></a> </h3>
 
 ---
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> Present Status </h2>
 
 <img width="25%" align='right' src="https://i.pinimg.com/originals/b9/04/94/b90494411665ae9ab6497682f9da350e.jpg">
 
@@ -36,6 +36,9 @@
 
 
 ###
+
+<h2 id="Skills"> Skills </h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
