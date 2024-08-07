@@ -1,8 +1,8 @@
 <h2 align="center">Hi ! I'm Anuj 👨‍💻</h2>
 
-<h4 align="center">
+<h6 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=capable+in+all+realm+of+human+endeavour" alt="Typing SVG" /></a> </h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=capable+in+all+realm+of+human+endeavour" alt="Typing SVG" /></a> </h6>
 
 ---
 <h2 id="present_status"> Present Status </h2>
