@@ -17,7 +17,7 @@
 
 👉 Building & Contributing To Open Source Projects.
 
-👉 AI/ML Enthusiast.
+👉 AI/ML , DS Enthusiast.
 
 ---
 <br> 
