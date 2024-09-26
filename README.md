@@ -5,6 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0AB91F&width=435&lines=capable+in+all+realm+of+human+endeavor" alt="Typing SVG" /></a> </h6>
 
 ---
+
+[![An image of @anuzx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuzx)](https://holopin.io/@anuzx)
+
+---
+
 <h2 id="present_status"> Present Status </h2>
 
 <img width="25%" align='right' src="https://i.pinimg.com/originals/b9/04/94/b90494411665ae9ab6497682f9da350e.jpg">
