@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/anuzx/anuzx/refs/heads/main/public/github-banner.jpeg)
+
 <h2 align="center">Hi ! I'm Anuj 👨‍💻</h2>
 
 <h6 align="center">
