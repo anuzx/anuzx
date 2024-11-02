@@ -41,6 +41,9 @@
 
 ---
 
+<a href="https://www.github.com/anuzx"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anuzx&theme=react-dark" alt="GitHub Commits Graph" /></a>
+
+---
 
 ###
 
