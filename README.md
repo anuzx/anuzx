@@ -31,7 +31,7 @@
 
 ###
 <h2 id="github_stats" align=''>📊GitHub Stats</h2>
-<img align="right" width="40%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="35%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuzx&theme=vision-friendly-dark)](https://github.com/anuzx/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=anuzx&theme=dark&card_width=400)](https://git.io/streak-stats) 
