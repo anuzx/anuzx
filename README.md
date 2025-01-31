@@ -33,8 +33,8 @@
 <h2 id="github_stats" align=''>📊GitHub Stats</h2>
 <img align="right" width="35%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![anuj GitHub stats](https://github-readme-stats.vercel.app/api?username=anuzx&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=anuzx&theme=dark&card_width=400)](https://git.io/streak-stats) 
+  ![anuj GitHub stats](https://github-readme-stats.vercel.app/api?username=anuzx&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuzx&theme=algolia&hide_border=true)
  <p align="left"><a href="https://github.com/anuzx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuzx&layout=compact&theme=vision-friendly-dark" width="400" /></a></p>
 
 <br><br>
