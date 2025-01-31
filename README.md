@@ -8,7 +8,7 @@
 
 ---
 
-[![An image of @anuzx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuzx)](https://holopin.io/@anuzx)
+
 
 ---
 
@@ -73,6 +73,9 @@
 </div>
 
 <br>
+
+---
+[![An image of @anuzx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuzx)](https://holopin.io/@anuzx)
 
 ---
 
