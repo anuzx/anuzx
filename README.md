@@ -1,6 +1,9 @@
 
 <h2 align="center">Hi ! I'm Anuj 👨‍💻</h2>
 
+***I'm a cybersecurity enthusiast and I like to code in C , Java and Python. I also like Linux and open source software.***
+
+
 <h6 align="center">
 
 ---
@@ -11,19 +14,14 @@
 
 ---
 
-<h2 id="present_status"> Present Status </h2>
+## **About Me :**
+- I'm a 20 year old programmer, cybersecurity engineer and an avid Linux enthusiast.
+- I hack websites for bounties and create payloads. 
+- Like networking, OSdev and malware development.
+- Interested in AI/ML,Data science 
+- Like to solve DSA Questions 
+- Learning about hardware engineering/hacking, systems engineering, system architecture
 
-<img width="25%" align='right' src="https://i.pinimg.com/originals/b9/04/94/b90494411665ae9ab6497682f9da350e.jpg">
-
-👉 Curious to learn everything.
-
-👉 Currently learning web development.
-
-👉 Interested in finding bugs & reporting them.
-
-👉 Building & Contributing To Open Source Projects.
-
-👉 AI/ML , DS Enthusiast.
 
 ---
 <br> 
@@ -45,30 +43,12 @@
 
 ###
 
-<h2 id="skills"> 🛠 skills </h2>
+***Languages and Tools***
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
- 
-</div>
+  Languages        | Tools      |
+|------------------|-------------|
+| <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,c,cpp" />  |  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/kali-linux.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git," /> |
+  
 
 <br>
 
