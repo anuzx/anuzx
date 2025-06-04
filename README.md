@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi ! I'm Anuj 👨‍💻</h2>
+<h1 align="left">Hi ! I'm Anuj 👨‍💻</h1>
 
 ***I'm a cybersecurity enthusiast and I like to code in C , Java and Python. I also like Linux and open source software.***
 
