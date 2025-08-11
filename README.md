@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi ! I'm Anuj 👨‍💻</h1>
 
-***I'm a cybersecurity enthusiast and I like to code in C , Java and Python. I also like Linux and open source software.***
+***I'm a cybersecurity enthusiast and I like to code in C , Java and Python. I also like Linux and open source softwares.***
 
 
 <h6 align="center">
@@ -17,7 +17,8 @@
 ## **About Me :**
 - I'm a 20 year old programmer, cybersecurity engineer and an avid Linux enthusiast.
 - I hack websites for bounties and create payloads. 
-- Like networking, OSdev and malware development.
+- Like to contribute in open source projects.
+- Like networking, OSdev and Web development.
 - Interested in AI/ML,Data science 
 - Like to solve DSA Questions 
 - Learning about hardware engineering/hacking, systems engineering, system architecture
@@ -36,14 +37,17 @@
 <br><br>
 
 ---
+<!-- Contribution Graph -->
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
 
 <a href="https://www.github.com/anuzx"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anuzx&theme=react-dark" alt="GitHub Commits Graph" /></a>
+</p>
 
 ---
 
-###
 
-***Languages and Tools***
+***⚙️ Tech Stack & Tools***
 
   Languages        | Tools      |
 |------------------|-------------|
@@ -53,8 +57,27 @@
 <br>
 
 ---
-[![An image of @anuzx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuzx)](https://holopin.io/@anuzx)
+<!-- Connect Section -->
+### 🔗 Contact & Links  
+<p align="left">
+  <a href="<Your LinkedIn Link Here>" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-D2042D?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="<Your Twitter Link Here>" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-A9A9A9?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/anuzx/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-D2042D?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuzx&label=Profile%20views&color=0e75b6&style=flat" alt="anuzx" /> </p>
+<!-- Star My Repo -->
+<h3 align="center">If you like my work, consider giving my repositories a star ⭐</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Support%20My%20Work-Star%20🌟-D2042D?style=for-the-badge&logo=github"/>
+</p>
+
+
+
