@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi ! I'm Anuj 👨‍💻</h1>
 
-***I'm a cybersecurity enthusiast and I like to code in C , Java and Python. I also like Linux and open source softwares.***
+***I'm a cybersecurity enthusiast and I like to code in Rust, Java and Python. I also like Linux and open source softwares.***
 
 
 <h6 align="center">
@@ -51,7 +51,7 @@
 
   Languages        | Tools      |
 |------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,c,rust,solidity" />  |  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/linux.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git," /> |
+| <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mongodb,nodejs,expressjs,c,rust,solidity,lua" />  |  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/linux-mint.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git," /> |
   
 
 <br>
