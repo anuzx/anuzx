@@ -16,9 +16,9 @@
 
 ## **About Me :**
 - I'm a 20 year old programmer, cybersecurity engineer and an avid Linux enthusiast.
-- I hack websites for bounties and create payloads. 
+- I like to create websites and hack them for bounties. 
 - Like to contribute in open source projects.
-- Like networking, OSdev and Web development.
+- Like networking, OSdev, Web3.
 - Interested in AI/ML,Data science 
 - Like to solve DSA Questions 
 - Learning about hardware engineering/hacking, systems engineering, system architecture
@@ -51,7 +51,7 @@
 
   Languages        | Tools      |
 |------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,c,cpp" />  |  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/kali-linux.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git," /> |
+| <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,c,rust,solidity" />  |  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/linux.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git," /> |
   
 
 <br>
