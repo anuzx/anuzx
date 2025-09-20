@@ -51,7 +51,7 @@
 
   Languages        | Tools      |
 |------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mongodb" /><img src="https://skillicons.dev/icons?i=nodejs,expressjs,c,rust,solidity,lua,go" />| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/linux-mint.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git," /> |
+| <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mongodb" /><img src="https://skillicons.dev/icons?i=nodejs,expressjs,c,rust,solidity,lua,go" />| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/linux-mint.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git,postman" /> |
   
 
 <br>
