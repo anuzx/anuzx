@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi ! I'm Anuj 👨‍💻</h1>
 
-***I'm a cybersecurity enthusiast and I like to code in Rust, Java and Python. I also like Linux and open source softwares.***
+***I'm a cybersecurity enthusiast and I like to code in Javascript, Java and Python. I also like Linux and open source softwares.***
 
 
 <h6 align="center">
@@ -47,11 +47,11 @@
 ---
 
 
-***⚙️ Tech Stack & Tools***
+***⚙️ Tech Stack***
 
-  Languages        | Tools      |
+  SKILLS        | TOOLS      |
 |------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mongodb" /><img src="https://skillicons.dev/icons?i=nodejs,expressjs,c,rust,solidity,lua,go" />| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="50"> <img src="https://img.icons8.com/color/452/linux-mint.png" width="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="50"><img src="https://skillicons.dev/icons?i=github,vscode,git,postman" /> |
+| <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,tailwind" /><img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,react,nextjs,postgres" />| <img src="https://skillicons.dev/icons?i=github,vscode,git,postman,bun,npm,yarn" />  <img src="https://skillicons.dev/icons?i=pnpm,neovim,linux,docker,aws,bash,graphql,nginx" /> ||
   
 
 <br>
