@@ -51,7 +51,7 @@
 
   SKILLS        | TOOLS      |
 |------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,tailwind" /><img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,react,nextjs,postgres" />| <img src="https://skillicons.dev/icons?i=github,vscode,git,postman,bun,npm,yarn" />  <img src="https://skillicons.dev/icons?i=pnpm,neovim,linux,docker,aws,bash,graphql,nginx" /> ||
+| <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,tailwind" /><img src="https://skillicons.dev/icons?i=mongodb,nodejs,expressjs,react,nextjs,postgres,bash,graphql" /><br><img src="https://go-skill-icons.vercel.app/api/icons?i=ejs"/>| <img src="https://skillicons.dev/icons?i=github,vscode,git,postman,bun,npm,yarn" />  <img src="https://skillicons.dev/icons?i=pnpm,neovim,linux,docker,aws,nginx" /> ||
   
 
 <br>
