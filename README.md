@@ -15,9 +15,9 @@
     <b>[anuzx@github]:~$ cat about.txt</b> <br>
   <em>
     
-  `21 y/o full-stack developerr, cybersecurity engineer and an avid Linux enthusiast`<br><br>
+  `21 y/o full-stack developer,cybersecurity engineer and an avid Linux enthusiast`<br><br>
   `Like to contribute in open source projects.`<br>
-  `Interested in applied AI and web hacking for bug bounties.`<br><br>
+  `Interested in applied AI and web hacking for bounties.`<br><br>
   `“Focused on building robust backends and resilient systems.”`
   </em>
 </p>
@@ -27,8 +27,8 @@
 
 ##  skills & tools
 
-![js](https://img.shields.io/badge/js-1d2021?style=flat&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-1d2021?style=flat&logo=typescript&logoColor=blue)
+![js](https://img.shields.io/badge/Js-1d2021?style=flat&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/Ts-1d2021?style=flat&logo=typescript&logoColor=blue)
 ![mongoDB](https://img.shields.io/badge/MongoDB-1d2021?style=flat&logo=MongoDB&logoColor=green)
 ![node.js](https://img.shields.io/badge/nodejs-1d2021?style=flat&logo=node.js&logoColor=green)
 ![express](https://img.shields.io/badge/express-1d2021?style=flat&logo=express&logoColor=yellow)
@@ -58,6 +58,7 @@
 ![docker](https://img.shields.io/badge/docker-1d2021?style=flat&logo=docker&logoColor=blue)
 ![kubernetes](https://img.shields.io/badge/kubernetes-1d2021?style=flat&logo=kubernetes&logoColor=blue)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-1d2021?style=flat&logo=virtualbox&logoColor=orange)
+![burp](https://img.shields.io/badge/burpsuite-1d2021?style=flat&logo=burpsuite&logoColor=orange)
 ![Linux](https://img.shields.io/badge/Linux-1d2021?style=flat&logo=linux&logoColor=white)
 
 
