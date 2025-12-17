@@ -1,4 +1,4 @@
-## Hi !, I'm Anuj
+## Hi ! , I'm Anuj
 
 <h6 align="center">
 
@@ -34,6 +34,7 @@
 ![express](https://img.shields.io/badge/express-1d2021?style=flat&logo=express&logoColor=yellow)
 ![react](https://img.shields.io/badge/React-1d2021?style=flat&logo=react&logoColor=green)
 ![next](https://img.shields.io/badge/next.js-1d2021?style=flat&logo=next.js&logoColor=white)
+![turbo](https://img.shields.io/badge/Turborepo-1d2021?style=flat&logo=turborepo&logoColor=white)
 ![tailwind](https://img.shields.io/badge/TailwindCss-1d2021?style=flat&logo=tailwindcss&logoColor=blue)
 ![postgres](https://img.shields.io/badge/postgresql-1d2021?style=flat&logo=postgresql&logoColor=blue)
 ![prisma](https://img.shields.io/badge/prisma-1d2021?style=flat&logo=prisma&logoColor=blue)
