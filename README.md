@@ -11,7 +11,7 @@
 ---
 <br>
 <p>
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuzx&show_icons=true&theme=algolia" width="450" >
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuzx&show_icons=true&theme=algolia" width="400" >
     <b>[anuzx@github]:~$ cat about.txt</b> <br>
   <em>
     
