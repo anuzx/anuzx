@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AB91F&width=435&lines=>+Hi!+I'm+Anuj" alt="Typing SVG" /></a> </h6>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=24&pause=1000&color=0AB91F&width=485&lines=>_Hi!,I'm+Anuj" alt="Typing SVG" /></a> 
 ---
 <p>
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuzx&show_icons=true&theme=algolia" width="400" >
