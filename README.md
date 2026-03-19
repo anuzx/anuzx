@@ -24,7 +24,7 @@
 ```json
 {
   "languages": ["TypeScript", "Python", "Go", "Java", "Rust"],
-   "client": {
+  "client": {
     "frontend": ["React", "Next.js"],
     "styling": ["Tailwind CSS"]
   },
